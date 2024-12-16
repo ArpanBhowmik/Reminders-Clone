@@ -19,7 +19,6 @@ class CoreDataProvider {
                 fatalError("Error initializing RemindersModel \(error)")
             }
         }
-        
     }
     
 }
